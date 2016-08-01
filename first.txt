@@ -1,1 +1,1 @@
-I am Sam ans I like ham. This is our first commit.
+I make some changes in the first file.
